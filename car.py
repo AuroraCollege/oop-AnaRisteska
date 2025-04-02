@@ -6,3 +6,4 @@ class Car:
 
 Leonard = Car('Toyota', 'Corolla', 2007)
 print(Leonard)
+    
